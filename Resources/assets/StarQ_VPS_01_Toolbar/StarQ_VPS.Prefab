@@ -1,0 +1,40 @@
+{
+    "$id": 0,
+    "$type": "0|Game.Prefabs.UIAssetMenuPrefab, Game",
+    "name": "StarQ_VPS",
+    "active": true,
+    "components": {
+        "$id": 1,
+        "$type": "1|System.Collections.Generic.List`1[[Game.Prefabs.ComponentBase, Game]], mscorlib",
+        "$rlength": 2,
+        "$rcontent": [
+            {
+                "$id": 2,
+                "$type": "2|Game.Prefabs.UIObject, Game",
+                "name": "UIObject",
+                "active": true,
+                "m_Group": $fstrref:"UnityGUID:0d743b09aa1b82040bfb8a3acb2f18a3",
+                "m_Priority": 201,
+                "m_Icon": "coui://uil/Colored/ServiceBuilding.svg",
+                "m_LargeIcon": "",
+                "m_IsDebugObject": false
+            },
+            {
+                "$id": 3,
+                "$type": "3|Game.Prefabs.EditorAssetCategoryOverride, Game",
+                "name": "EditorAssetCategoryOverride",
+                "active": true,
+                "m_IncludeCategories": {
+                    "$id": 4,
+                    "$type": "4|System.String[], mscorlib",
+                    "$rlength": 2,
+                    "$rcontent": [
+                        "StarQ",
+                        "StarQ/_Utils"
+                    ]
+                },
+                "m_ExcludeCategories": null
+            }
+        ]
+    }
+}

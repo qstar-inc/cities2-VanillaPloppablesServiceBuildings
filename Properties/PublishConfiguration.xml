@@ -1,0 +1,66 @@
+﻿<Publish>
+	<!--Id must be set in order to update existed mod. it is not required for publishing mod for the first time-->
+	<ModId Value="79021" />
+	<!--Name of the mod to display to players-->
+	<DisplayName Value="StarQ Vanilla Ploppable Service Buildings" />
+	<!--Short description of the mod-->
+	<ShortDescription Value="Adds the EU Gas Station ploppables to the &quot;Ploppables&quot; tab" />
+	<!--Long description of the mod. Single line or multi line. Supports minimal markdown subset-->
+	<!--LongDescription Value="" /-->
+	<LongDescription>
+The assets on this pack has moved to one collection: [StarQ Vanilla Ploppable Buildings](https://mods.paradoxplaza.com/mods/79020/Windows). You can unsubscribe to it if you want.
+<!--This asset pack adds a collection of non-terrain conforming and non-functional static '**EU Gas Station**' buildings.
+This category can be found in a new "Ploppable" icon in the toolbar.
+Currently only supports en-US l10n.
+
+### RESTART THE GAME (TWICE) AFTER SUBSCRIBING to any Asset Packs Manager assets
+___
+### ***IMPORTANT: Make sure all the dependencies are subscribed and loaded to the current playsets.***
+___
+# Full Collection (Coming Soon)
+* [EU Gas Station](https://mods.paradoxplaza.com/mods/79021/Windows) (9)
+
+# Recommended Mods
+* [Anarchy](https://mods.paradoxplaza.com/mods/74604/Windows)
+* [Asset Variation Changer](https://mods.paradoxplaza.com/mods/78847/Windows)
+* [Better Bulldozer](https://mods.paradoxplaza.com/mods/75250/Windows)
+* [Move It](https://mods.paradoxplaza.com/mods/74324/Windows)
+
+# DISCLAIMER
+> This mod requires [Asset Packs Manager](https://mods.paradoxplaza.com/mods/78903/Windows) which is highly experimental.
+As these are non-functional vanilla assets, they shouldn't break the save game.
+Worst case you'll get error popups on game load and/or grey boxes in save.
+But either way, YOU ARE RESPONSIBLE for any damage.
+Contact me on Discord and I'll try to help you recover anyway.
+
+# Discussion
+* [Cities: Skylines Official Discord](https://discord.com/channels/263634513861541888/1230985844261781514) ([Invitation](https://discord.gg/citiesskylines))
+* [Cities: Skylines Modding Discord](https://discord.com/channels/1024242828114673724/1230988534349959189) ([Invitation](https://discord.gg/q3dzd4p5Hx))
+
+The in-game browser doesn't support links. Use the web version to click on the links.-->
+	</LongDescription>
+	<!--Thumbnail-->
+	<Thumbnail Value="Properties/Thumbnail.png" />
+	<!--Screenshot, can be set multiple times-->
+	<Screenshot Value="Properties/Screenshots/Main.jpg" />
+	<Screenshot Value="Properties/Screenshots/Missing.jpg" />
+	<!--Tag, can be set multiple times-->
+	<Tag Value="Code Mod" />
+	<!--Link to the forum post where the mod can be discussed-->
+	<ForumLink Value="" />
+	<!--Version of the mod-->
+	<ModVersion Value="2.0.1" />
+	<!--Recommended version of the base game to use the mod-->
+	<GameVersion Value="*" />
+	<!--Dependency for the mod, can be set multiple times-->
+	<Dependency Id="74417" /> <!-- Unified Icon Library -->
+	<Dependency Id="75426" /> <!-- I18n EveryWhere -->
+	<Dependency Id="78903" /> <!-- Asset Packs Manager -->
+	<!--Change log for new version. Single line or multi line. Supports minimal markdown subset-->
+	<ChangeLog Value="-" />
+	<ChangeLog>
+* Moved assets
+	</ChangeLog>
+	<!--External link. supported types are discord, github, youtube, twitch, x, paypal, patreon-->
+	<ExternalLink Type="" Url="" />
+</Publish>

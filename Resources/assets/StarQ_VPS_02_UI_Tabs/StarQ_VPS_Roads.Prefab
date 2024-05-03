@@ -1,0 +1,47 @@
+{
+    "$id": 0,
+    "$type": "0|Game.Prefabs.UIAssetCategoryPrefab, Game",
+    "name": "StarQ_VPS_Roads",
+    "active": true,
+    "components": {
+        "$id": 1,
+        "$type": "1|System.Collections.Generic.List`1[[Game.Prefabs.ComponentBase, Game]], mscorlib",
+        "$rlength": 2,
+        "$rcontent": [
+            {
+                "$id": 2,
+                "$type": "2|Game.Prefabs.UIObject, Game",
+                "name": "UIObject",
+                "active": true,
+                "m_Group": null,
+                "m_Priority": 1010,
+                "m_Icon": "Media/Game/Icons/Roads.svg",
+                "m_LargeIcon": "",
+                "m_IsDebugObject": false
+            },
+            {
+                "$id": 3,
+                "$type": "3|Game.Prefabs.EditorAssetCategoryOverride, Game",
+                "name": "EditorAssetCategoryOverride",
+                "active": true,
+                "m_IncludeCategories": {
+                    "$id": 4,
+                    "$type": "4|System.String[], mscorlib",
+                    "$rlength": 2,
+                    "$rcontent": [
+                        "StarQ",
+                        "StarQ/_Utils"
+                    ]
+                },
+                "m_ExcludeCategories": {
+                    "$id": 5,
+                    "$type": 4,
+                    "$rlength": 0,
+                    "$rcontent": [
+                    ]
+                }
+            }
+        ]
+    },
+    "m_Menu": $fstrref:"CID:b94d06009e63a0eef99bb34b93319fda"
+}
