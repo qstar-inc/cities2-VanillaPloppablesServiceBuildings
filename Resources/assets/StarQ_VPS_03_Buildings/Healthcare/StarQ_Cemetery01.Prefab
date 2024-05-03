@@ -15,7 +15,7 @@
                 "active": true,
                 "m_Group": $fstrref:"CID:2824a14fec485a002a8a07d35ec0a201",
                 "m_Priority": 104201,
-                "m_Icon": "coui://uil/Colored/AnarchyChirper.png",
+                "m_Icon": "coui://ail/Cemetery01.png",
                 "m_LargeIcon": "",
                 "m_IsDebugObject": false
             },
@@ -49,8 +49,8 @@
                 "active": true,
                 "m_LevelMinOffset": {
                     "$type": "6|Unity.Mathematics.float2, Unity.Mathematics",
-                    "x": 100,
-                    "y": 100
+                    "x": 1600,
+                    "y": 1600
                 },
                 "m_LevelMaxOffset": {
                     "$type": 6,

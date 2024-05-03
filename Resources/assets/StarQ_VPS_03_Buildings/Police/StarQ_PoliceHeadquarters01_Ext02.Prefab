@@ -15,7 +15,7 @@
                 "active": true,
                 "m_Group": $fstrref:"CID:c45403d46fc1a9845f9e13633ce3602e",
                 "m_Priority": 108113,
-                "m_Icon": "",
+                "m_Icon": "thumbnail://ThumbnailCamera/BuildingExtensionPrefab/PoliceHeadquarters01%20Garage%20Extension?width=128&height=128",
                 "m_LargeIcon": "",
                 "m_IsDebugObject": false
             },
@@ -49,8 +49,8 @@
                 "active": true,
                 "m_LevelMinOffset": {
                     "$type": "6|Unity.Mathematics.float2, Unity.Mathematics",
-                    "x": 100,
-                    "y": 100
+                    "x": 1600,
+                    "y": 1600
                 },
                 "m_LevelMaxOffset": {
                     "$type": 6,

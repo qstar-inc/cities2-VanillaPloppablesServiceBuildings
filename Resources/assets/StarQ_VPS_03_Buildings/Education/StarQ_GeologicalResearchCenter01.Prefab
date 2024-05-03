@@ -15,7 +15,7 @@
                 "active": true,
                 "m_Group": $fstrref:"CID:aca0f21b498cdf64631cba9939928ca7",
                 "m_Priority": 106211,
-                "m_Icon": "coui://uil/Colored/AnarchyChirper.png",
+                "m_Icon": "coui://ail/GeologicalResearchCenter01.png",
                 "m_LargeIcon": "",
                 "m_IsDebugObject": false
             },
@@ -49,8 +49,8 @@
                 "active": true,
                 "m_LevelMinOffset": {
                     "$type": "6|Unity.Mathematics.float2, Unity.Mathematics",
-                    "x": 100,
-                    "y": 100
+                    "x": 1600,
+                    "y": 1600
                 },
                 "m_LevelMaxOffset": {
                     "$type": 6,

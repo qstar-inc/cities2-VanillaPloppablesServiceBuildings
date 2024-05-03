@@ -15,7 +15,7 @@
                 "active": true,
                 "m_Group": $fstrref:"CID:34a16b16cadca03527f43e39e9a41e5c",
                 "m_Priority": 101202,
-                "m_Icon": "",
+                "m_Icon": "thumbnail://ThumbnailCamera/BuildingExtensionPrefab/RoadMaintenanceDepot01%20Extra%20Garage?width=128&height=128",
                 "m_LargeIcon": "",
                 "m_IsDebugObject": false
             },
@@ -49,8 +49,8 @@
                 "active": true,
                 "m_LevelMinOffset": {
                     "$type": "6|Unity.Mathematics.float2, Unity.Mathematics",
-                    "x": 100,
-                    "y": 100
+                    "x": 1600,
+                    "y": 1600
                 },
                 "m_LevelMaxOffset": {
                     "$type": 6,

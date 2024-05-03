@@ -15,7 +15,7 @@
                 "active": true,
                 "m_Group": $fstrref:"CID:b8858751336ac0020adcf95c1aef4e9a",
                 "m_Priority": 107102,
-                "m_Icon": "",
+                "m_Icon": "thumbnail://ThumbnailCamera/BuildingExtensionPrefab/FireHouse01%20Garage%20Extension?width=128&height=128",
                 "m_LargeIcon": "",
                 "m_IsDebugObject": false
             },
@@ -49,8 +49,8 @@
                 "active": true,
                 "m_LevelMinOffset": {
                     "$type": "6|Unity.Mathematics.float2, Unity.Mathematics",
-                    "x": 100,
-                    "y": 100
+                    "x": 1600,
+                    "y": 1600
                 },
                 "m_LevelMaxOffset": {
                     "$type": 6,
