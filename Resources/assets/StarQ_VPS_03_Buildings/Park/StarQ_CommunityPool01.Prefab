@@ -118,9 +118,9 @@
                 "m_Mesh": $fstrref:"UnityGUID:edd4f3dc30c72354db4040794d92daad",
                 "m_Position": {
                     "$type": "10|Unity.Mathematics.float3, Unity.Mathematics",
-                    "x": 0,
-                    "y": 0,
-                    "z": 0
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
                 },
                 "m_Rotation": {
                     "$type": "11|Unity.Mathematics.quaternion, Unity.Mathematics",

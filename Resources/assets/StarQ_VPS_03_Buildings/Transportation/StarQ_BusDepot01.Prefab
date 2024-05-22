@@ -118,9 +118,9 @@
                 "m_Mesh": $fstrref:"UnityGUID:9a0ff3b0f723c7044b022de731307ea1",
                 "m_Position": {
                     "$type": "10|Unity.Mathematics.float3, Unity.Mathematics",
-                    "x": 0,
-                    "y": 0,
-                    "z": 0
+                    "x": -3.075,
+                    "y": 0.0,
+                    "z": -0.112
                 },
                 "m_Rotation": {
                     "$type": "11|Unity.Mathematics.quaternion, Unity.Mathematics",
@@ -138,6 +138,6 @@
     },
     "m_Circular": false,
     "m_AccessType": 0,
-    "m_LotWidth": 18,
-    "m_LotDepth": 9
+    "m_LotWidth": 14,
+    "m_LotDepth": 7
 }

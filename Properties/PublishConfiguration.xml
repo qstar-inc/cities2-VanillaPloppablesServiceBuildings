@@ -51,7 +51,7 @@ The in-game browser doesn't support links. Use the web version to click on the l
 	<!--Link to the forum post where the mod can be discussed-->
 	<ForumLink Value="" />
 	<!--Version of the mod-->
-	<ModVersion Value="2.0.2" />
+	<ModVersion Value="2.1.0" />
 	<!--Recommended version of the base game to use the mod-->
 	<GameVersion Value="*" />
 	<!--Dependency for the mod, can be set multiple times-->
@@ -60,10 +60,11 @@ The in-game browser doesn't support links. Use the web version to click on the l
 	<Dependency Id="78903" /> <!-- Asset Packs Manager -->
 	<Dependency Id="79634" /> <!-- Asset Icon Library -->
 	<!--Change log for new version. Single line or multi line. Supports minimal markdown subset-->
-	<ChangeLog Value="-" />
+	<ChangeLog Value="2.1.0" />
 	<ChangeLog>
-# Added Service Buildings
-* Now uses "Asset Icon Library" for the icons.
+* Recalculated every building's lot sizes.
+* Helipads are now pivoted to the ground.
+* Removed unnecessary log files.
 	</ChangeLog>
 	<!--External link. supported types are discord, github, youtube, twitch, x, paypal, patreon-->
 	<ExternalLink Type="discord" Url="https://discord.com/channels/1024242828114673724/1230988534349959189" />
