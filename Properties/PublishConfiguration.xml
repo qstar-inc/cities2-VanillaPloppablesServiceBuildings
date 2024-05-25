@@ -34,6 +34,8 @@ Inside the menu, you will find various categories which consists of Service buil
 * Parks &amp; Recreation (19)
 * Communications (11)
 
+The Parks &amp; Recreation items requires access to the DLC required for the items. They won't appear unless the DLC is acquired/active in your game.
+
 #### ***IMPORTANT: Make sure all the dependencies are subscribed and loaded to the current playsets.***
 
 ## Discussion
@@ -51,7 +53,7 @@ The in-game browser doesn't support links. Use the web version to click on the l
 	<!--Link to the forum post where the mod can be discussed-->
 	<ForumLink Value="" />
 	<!--Version of the mod-->
-	<ModVersion Value="2.1.0" />
+	<ModVersion Value="2.1.1" />
 	<!--Recommended version of the base game to use the mod-->
 	<GameVersion Value="*" />
 	<!--Dependency for the mod, can be set multiple times-->
@@ -60,11 +62,9 @@ The in-game browser doesn't support links. Use the web version to click on the l
 	<Dependency Id="78903" /> <!-- Asset Packs Manager -->
 	<Dependency Id="79634" /> <!-- Asset Icon Library -->
 	<!--Change log for new version. Single line or multi line. Supports minimal markdown subset-->
-	<ChangeLog Value="2.1.0" />
+	<ChangeLog Value="2.1.1" />
 	<ChangeLog>
-* Recalculated every building's lot sizes.
-* Helipads are now pivoted to the ground.
-* Removed unnecessary log files.
+* Minor Bug fixes
 	</ChangeLog>
 	<!--External link. supported types are discord, github, youtube, twitch, x, paypal, patreon-->
 	<ExternalLink Type="discord" Url="https://discord.com/channels/1024242828114673724/1230988534349959189" />

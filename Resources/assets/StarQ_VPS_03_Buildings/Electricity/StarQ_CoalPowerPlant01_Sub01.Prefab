@@ -120,7 +120,7 @@
                     "$type": "10|Unity.Mathematics.float3, Unity.Mathematics",
                     "x": 0.0,
                     "y": 0.0,
-                    "z": -1.5
+                    "z": -0.913
                 },
                 "m_Rotation": {
                     "$type": "11|Unity.Mathematics.quaternion, Unity.Mathematics",
