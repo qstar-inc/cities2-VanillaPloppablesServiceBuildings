@@ -14,7 +14,7 @@
                 "name": "UIObject",
                 "active": true,
                 "m_Group": $fstrref:"CID:aca0f21b498cdf64631cba9939928ca7",
-                "m_Priority": 106142,
+                "m_Priority": 106412,
                 "m_Icon": "thumbnail://ThumbnailCamera/BuildingExtensionPrefab/TechnicalUniversity01%20Extension%20Wing?width=128&height=128",
                 "m_LargeIcon": "",
                 "m_IsDebugObject": false
@@ -27,10 +27,8 @@
                 "m_IncludeCategories": {
                     "$id": 4,
                     "$type": "4|System.String[], mscorlib",
-                    "$rlength": 3,
+                    "$rlength": 1,
                     "$rcontent": [
-                        "StarQ",
-                        "StarQ/Vanilla Ploppables Services",
                         "StarQ/Vanilla Ploppables Services/Education"
                     ]
                 },

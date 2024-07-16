@@ -17,24 +17,24 @@ Contact me on Discord and I'll try to help you recover anyway.
 
 This is the full collection package for all non-terrain conforming and non-functional static service buildings including upgrades.
 - Currently only supports en-US l10n.
-- Uses icon from Unified Icon Library and Asset Icon Library.
+- Uses icons from Unified Icon Library and Asset Icon Library.
 
 ## Collection
 This 'mod' adds a "Ploppable Services" menu on the main toolbar, next to the "Signature Buildings".
-Inside the menu, you will find various categories which consists of Service buildings and their upgrades.
+Inside the menu, you will find various categories which consist of Service buildings and their upgrades.
 * Roads (5)
 * Electricity (23)
-* Water (12)
-* Healthcare &amp; Deathcare (15)
+* Water (13)
+* Healthcare &amp; Deathcare (16)
 * Garbage Management (12)
-* Education &amp; Research (21)
-* Fire &amp; Rescue (12)
-* Police &amp; Administration (15)
-* Transportation (39)
+* Education &amp; Research (32)
+* Fire &amp; Rescue (13)
+* Police &amp; Administration (18)
+* Transportation (51)
 * Parks &amp; Recreation (19)
-* Communications (11)
+* Communications (13)
 
-The Parks &amp; Recreation items requires access to the DLC required for the items. They won't appear unless the DLC is acquired/active in your game.
+The Parks &amp; Recreation items require access to the DLC required for the items. They won't appear unless the DLC is acquired/active in your game.
 
 #### ***IMPORTANT: Make sure all the dependencies are subscribed and loaded to the current playsets.***
 
@@ -42,7 +42,7 @@ The Parks &amp; Recreation items requires access to the DLC required for the ite
 * [Cities: Skylines Official Discord](https://discord.com/channels/263634513861541888/1230985844261781514) ([Invitation](https://discord.gg/citiesskylines))
 * [Cities: Skylines Modding Discord](https://discord.com/channels/1024242828114673724/1230988534349959189) ([Invitation](https://discord.gg/q3dzd4p5Hx))
 
-The in-game browser doesn't support links. Use the web version to click on the links.
+-# The in-game browser doesn't support links. Use the web version of PDX Mods to click on the links.
 	</LongDescription>
 	<!--Thumbnail-->
 	<Thumbnail Value="Properties/Thumbnail.png" />
@@ -53,18 +53,18 @@ The in-game browser doesn't support links. Use the web version to click on the l
 	<!--Link to the forum post where the mod can be discussed-->
 	<ForumLink Value="" />
 	<!--Version of the mod-->
-	<ModVersion Value="2.1.1" />
+	<ModVersion Value="3.0.0" />
 	<!--Recommended version of the base game to use the mod-->
 	<GameVersion Value="*" />
 	<!--Dependency for the mod, can be set multiple times-->
-	<Dependency Id="74417" /> <!-- Unified Icon Library -->
 	<Dependency Id="75426" /> <!-- I18n EveryWhere -->
 	<Dependency Id="78903" /> <!-- Asset Packs Manager -->
+	<Dependency Id="74417" /> <!-- Unified Icon Library -->
 	<Dependency Id="79634" /> <!-- Asset Icon Library -->
 	<!--Change log for new version. Single line or multi line. Supports minimal markdown subset-->
-	<ChangeLog Value="2.1.1" />
+	<ChangeLog Value="3.0.0" />
 	<ChangeLog>
-* Minor Bug fixes
+* Added service buildings from 1.1.6f1
 	</ChangeLog>
 	<!--External link. supported types are discord, github, youtube, twitch, x, paypal, patreon-->
 	<ExternalLink Type="discord" Url="https://discord.com/channels/1024242828114673724/1230988534349959189" />

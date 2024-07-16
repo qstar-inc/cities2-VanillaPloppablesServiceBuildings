@@ -14,7 +14,7 @@
                 "name": "UIObject",
                 "active": true,
                 "m_Group": $fstrref:"CID:2824a14fec485a002a8a07d35ec0a201",
-                "m_Priority": 104102,
+                "m_Priority": 104103,
                 "m_Icon": "thumbnail://ThumbnailCamera/BuildingExtensionPrefab/MedicalClinic01%20Ambulance%20Depot?width=128&height=128",
                 "m_LargeIcon": "",
                 "m_IsDebugObject": false
@@ -27,10 +27,8 @@
                 "m_IncludeCategories": {
                     "$id": 4,
                     "$type": "4|System.String[], mscorlib",
-                    "$rlength": 3,
+                    "$rlength": 1,
                     "$rcontent": [
-                        "StarQ",
-                        "StarQ/Vanilla Ploppables Services",
                         "StarQ/Vanilla Ploppables Services/Healthcare"
                     ]
                 },

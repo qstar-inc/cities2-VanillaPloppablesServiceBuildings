@@ -14,7 +14,7 @@
                 "name": "UIObject",
                 "active": true,
                 "m_Group": $fstrref:"CID:bfbe151f54dde0d11fcb61c8e5b9fd88",
-                "m_Priority": 103203,
+                "m_Priority": 103211,
                 "m_Icon": "coui://ail/GroundwaterPumpingStation01.png",
                 "m_LargeIcon": "",
                 "m_IsDebugObject": false
@@ -27,10 +27,8 @@
                 "m_IncludeCategories": {
                     "$id": 4,
                     "$type": "4|System.String[], mscorlib",
-                    "$rlength": 3,
+                    "$rlength": 1,
                     "$rcontent": [
-                        "StarQ",
-                        "StarQ/Vanilla Ploppables Services",
                         "StarQ/Vanilla Ploppables Services/Water"
                     ]
                 },

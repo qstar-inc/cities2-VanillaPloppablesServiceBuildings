@@ -14,7 +14,7 @@
                 "name": "UIObject",
                 "active": true,
                 "m_Group": $fstrref:"CID:c45403d46fc1a9845f9e13633ce3602e",
-                "m_Priority": 108102,
+                "m_Priority": 108103,
                 "m_Icon": "thumbnail://ThumbnailCamera/BuildingExtensionPrefab/PoliceStation01%20Garage%20Extension?width=128&height=128",
                 "m_LargeIcon": "",
                 "m_IsDebugObject": false
@@ -27,10 +27,8 @@
                 "m_IncludeCategories": {
                     "$id": 4,
                     "$type": "4|System.String[], mscorlib",
-                    "$rlength": 3,
+                    "$rlength": 1,
                     "$rcontent": [
-                        "StarQ",
-                        "StarQ/Vanilla Ploppables Services",
                         "StarQ/Vanilla Ploppables Services/Police"
                     ]
                 },

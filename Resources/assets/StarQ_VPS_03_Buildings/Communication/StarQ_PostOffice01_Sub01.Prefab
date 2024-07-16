@@ -14,7 +14,7 @@
                 "name": "UIObject",
                 "active": true,
                 "m_Group": $fstrref:"CID:854afce917a79616a829ff0578f34676",
-                "m_Priority": 111102,
+                "m_Priority": 111104,
                 "m_Icon": "coui://ail/PostOffice01 Mail Storage Extension.png",
                 "m_LargeIcon": "",
                 "m_IsDebugObject": false
@@ -27,10 +27,8 @@
                 "m_IncludeCategories": {
                     "$id": 4,
                     "$type": "4|System.String[], mscorlib",
-                    "$rlength": 3,
+                    "$rlength": 1,
                     "$rcontent": [
-                        "StarQ",
-                        "StarQ/Vanilla Ploppables Services",
                         "StarQ/Vanilla Ploppables Services/Communication"
                     ]
                 },
