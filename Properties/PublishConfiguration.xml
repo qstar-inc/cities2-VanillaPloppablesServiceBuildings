@@ -53,7 +53,7 @@ The Parks &amp; Recreation items require access to the DLC required for the item
 	<!--Link to the forum post where the mod can be discussed-->
 	<ForumLink Value="" />
 	<!--Version of the mod-->
-	<ModVersion Value="3.0.0" />
+	<ModVersion Value="3.0.1" />
 	<!--Recommended version of the base game to use the mod-->
 	<GameVersion Value="*" />
 	<!--Dependency for the mod, can be set multiple times-->
@@ -62,9 +62,9 @@ The Parks &amp; Recreation items require access to the DLC required for the item
 	<Dependency Id="74417" /> <!-- Unified Icon Library -->
 	<Dependency Id="79634" /> <!-- Asset Icon Library -->
 	<!--Change log for new version. Single line or multi line. Supports minimal markdown subset-->
-	<ChangeLog Value="3.0.0" />
+	<ChangeLog Value="3.0.1" />
 	<ChangeLog>
-* Added service buildings from 1.1.6f1
+* Minor Bug Fix
 	</ChangeLog>
 	<!--External link. supported types are discord, github, youtube, twitch, x, paypal, patreon-->
 	<ExternalLink Type="discord" Url="https://discord.com/channels/1024242828114673724/1230988534349959189" />
